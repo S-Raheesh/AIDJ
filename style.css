@@ -1,0 +1,25 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+#img1{
+
+  width: 220px;
+}
+#div1{
+  float: right;
+}
+.heading{
+    margin: 70px;
+}
+#div2{
+    float: left;
+  }
+  #img2{
+
+    width: 220px;
+  }
+canvas{
+    border: 15px solid whitesmoke;
+    border-radius: 30px;
+}
